@@ -1,0 +1,15 @@
+{
+  "name": "external_review_1",
+  "version": "1.0.0",
+  "description": "Program specifications / user stories:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
