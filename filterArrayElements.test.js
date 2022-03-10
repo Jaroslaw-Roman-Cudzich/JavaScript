@@ -1,5 +1,5 @@
-const checkLength = require('./filter_array_elements');
-const filterLongNumbers = require('./filter_array_elements');
+const checkLength = require('./filterArrayElements');
+const filterLongNumbers = require('./filterArrayElements');
 // const filter = require('./filter_array_elements');
 
 describe('checkLength', () => {

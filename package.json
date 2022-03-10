@@ -11,5 +11,13 @@
   "dependencies": {
     "jest": "^27.5.1"
   },
-  "description": ""
+  "description": "Programs and their tests in this 'JavaScript' repository were created for the purpose of developing and understanding the following programming skills and concepts.:",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaroslaw-Roman-Cudzich/JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaroslaw-Roman-Cudzich/JavaScript/issues"
+  },
+  "homepage": "https://github.com/Jaroslaw-Roman-Cudzich/JavaScript#readme"
 }

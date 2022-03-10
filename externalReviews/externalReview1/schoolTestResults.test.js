@@ -1,4 +1,4 @@
-const createReport = require('./school_test_results');
+const createReport = require('./schoolTestResults');
 
 // describe('testing the jest infrastructure', () => {
 //     it('returns "Hello"', () => {

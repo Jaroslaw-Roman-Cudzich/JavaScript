@@ -1,0 +1,1 @@
+A program and test created to do a test of the functionality of 'jest'.

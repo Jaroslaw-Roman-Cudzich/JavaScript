@@ -1,4 +1,4 @@
-const fizzBuzz = require('./fizzbuzz');
+const fizzBuzz = require('./fizzBuzz');
 
 describe('fizzBuzz', () => {
     it('returns FizzBuzz if num is divisible by 3 and 5', () => {

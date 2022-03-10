@@ -1,4 +1,4 @@
-const test = require('./testing_jest');
+const test = require('./testingJest');
 
 describe('test', () => {
     it('returns hello', () => {
